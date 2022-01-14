@@ -107,47 +107,47 @@ const jano100 = new Discord.Client();
 
 ///////////////////
 jano.on("ready", () => {
-    var join = jano.channels.get(""); /// id voice
+    var join = jano.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano2.on("ready", () => {
-    var join = jano2.channels.get(""); /// id voice
+    var join = jano2.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano3.on("ready", () => {
-    var join = jano3.channels.get(""); /// id voice
+    var join = jano3.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano4.on("ready", () => {
-    var join = jano4.channels.get(""); /// id voice
+    var join = jano4.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });
 ///////////////////
 jano5.on("ready", () => {
-    var join = jano5.channels.get(""); /// id voice
+    var join = jano5.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano6.on("ready", () => {
-    var join = jano6.channels.get(""); /// id voice
+    var join = jano6.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano7.on("ready", () => {
-    var join = jano7.channels.get(""); /// id voice
+    var join = jano7.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano8.on("ready", () => {
-    var join = jano8.channels.get(""); /// id voice
+    var join = jano8.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano9.on("ready", () => {
-    var join = jano9.channels.get(""); /// id voice
+    var join = jano9.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano10.on("ready", () => {
-    var join = jano10.channels.get(""); /// id voice
+    var join = jano10.channels.get("915662705120129064"); /// id voice
     if (join) join.join();
   });///////////////////
 jano11.on("ready", () => {
@@ -2461,16 +2461,16 @@ jano100.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
-jano7.login("");
-jano8.login("");
-jano9.login("");
-jano10.login("");
+jano.login("OTMxNTE5MzE4NjI0MTk4NzQ3.YeFnPA.biL7sGQkPExVL0XswJm-8uPAx2c");
+jano2.login("OTMxNTE4NzA3Nzk5MzIyNjM0.YeFmnw._TlI-fQ1n_WMOD5qO15YfTg-Vmc");
+jano3.login("OTMxNTE3ODA3MDIyMTc4MzM0.YeFl_g.Ae0GwjI_daLRUXLSIfyyc0S4I8k");
+jano4.login("OTMxNTE0NTEyOTQ1ODY4ODMw.YeFi0A.TKKInt1HVBH2AUeFhVPbr3MVdrA");
+jano5.login("OTMxNTA4ODk4MjQwNzk4NzMw.YeFdfA.zAKjC_hsF0GvJl8iJCyHjsnJQjw");
+jano6.login("OTMxNjA4NjE5ODgxOTg4MTI5.YeG6vg._5AgGQusR_MUlZ1IAf4Ltupfzw8");
+jano7.login("OTMxNTE0NjQ4MTY2MDIzMjA4.YeFjkw.geIBIWOYByEuGUrc0QqMUMeSj64");
+jano8.login("OTMxNTE2NjEyNDg0NDAzMjEw.YeFlEQ.tHTjpWSXIVSoSGcbadtxlW9Fs5g");
+jano9.login("OTMxNTA4NjM4MTgxMzYzNzYz.YeFeDg.efwT3a-GVleRwa3saud3xwFL7-c");
+jano10.login("OTMxNTE2NjEyNDg0NDAzMjEw.YeFlEQ.tHTjpWSXIVSoSGcbadtxlW9Fs5g");
 jano11.login("");
 jano12.login("");
 jano13.login("");
